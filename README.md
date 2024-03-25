@@ -22,7 +22,7 @@ Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo 
 
 <hr />  
 
-## Principais conhecimentos
+## Principais Conhecimentos
 
  
 |Banco de dados|Frameworks|Linguagens|Outros|
