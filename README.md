@@ -1,7 +1,5 @@
 <Div align="center" >
 
-# Nicolas Bonifácio Pereira
-
 ## Introdução
 
 </Div>
