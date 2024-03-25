@@ -41,11 +41,11 @@ Cursos realizados e certificados.
 
 </Div>
 
-### Em 2021-2
+### Em 2022-1
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/DiasVitoria/API-1-Semestre)
+> [Link para a API do 1º Semetre](https://github.com/NicolasPereira06/API--1-ADS)
 
 O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que armazenasse todos os Projetos Integradores desenvolvidos na FATEC de São José dos Campos desde o início de sua implementação. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
 
