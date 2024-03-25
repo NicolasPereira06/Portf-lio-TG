@@ -12,7 +12,7 @@ Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo 
 </Div>
 
 <Div align="center" >
-
+<br>
 ### Contatos
 
   <a href= "https://linkedin.com/in/NicolasPereira06" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
