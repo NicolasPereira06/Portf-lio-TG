@@ -8,7 +8,7 @@
 
 <Div align="justify" >
 
-<img align="right" src="https://raw.githubusercontent.com/NicolasPereira06/Portfolio-TG/main/images/NicolasPereira06.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/NicolasPereira06/Portfolio-TG/main/imagens/NicolasPereira06.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
 Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. Comecei o meu interesse pela área da tecnologia, no Ensino Médio, foi um período em que tive um contato maior com a informática, a partir dai comecei a assistir alguns cursos onlines e programar por conta própria. No 3º Ano do Ensino Médio prestei vestibular para faculdades na área de tecnologia, entrei na Fatec de São José dos Campos, e até então tenho desenvolvido e aprimorado minhas habilidades de programação.
 </Div>
