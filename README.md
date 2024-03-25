@@ -47,7 +47,7 @@ Cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/NicolasPereira06/API--1-ADS)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que armazenasse todos os Projetos Integradores desenvolvidos na FATEC de São José dos Campos desde o início de sua implementação. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
+A Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas envolveu colaboração com um cliente interno, de dentro da Fatec, um dos nossos professores. Seu propósito consistia em criar uma Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto, e também para o versionamento deste código, bem como o desenvolvimento em si do projeto, utilizando programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
 
 </Div>
 
@@ -62,7 +62,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
+  > Utilizamos HTML em nosso projeto para a criação da estrutura do catálogo de vagas.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
   > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
@@ -71,40 +71,48 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+  > Utilizamos o GitHub para a hospedagem do código-fonte, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
+  > Utilizamos o Python para a raspagem de dados (Web-Scraping) das vagas de emprego e dos cursos pela internet, como por exemplo o Banco Nacional de Empregos.
 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript 
+  > Utilizamos o JavaScript para criar gráficos que mostrassem dados sobre as vagas catalogadas em nosso site.
  </details>
  
 
-### Contribuições pessoais
+### Contribuições
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados e da página home do site utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
+Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Métricas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+* Desenvolvimento WEB (Utilizando HTML5, CSS3 e JavaScript)
 > Sei fazer com autonomia.
 
 * Controle de versionamento (GIT)  
+> Sei fazer com autonomia.
+
+* Raspagem de Dados (Web-Scraping) (Python)  
 > Sei fazer com ajuda.
 
 ### Soft skills
 
+* Colaboração
+> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver durante o projeto.
+
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
  
-* Proatividade
+* Autonomia
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
