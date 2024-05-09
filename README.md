@@ -281,7 +281,7 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
   > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgre/postgre-original.svg"/> PostgreSQL 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
   > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
@@ -312,7 +312,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 * Deploy de aplicações (Vercel)
 > Sei fazer o básico, funções mais complexas preciso de ajuda.
 
-* Controle de versionamento (GIT)  
+* Controle de versionamento (Git)  
 > Sei fazer com autonomia.
 
 ### Soft skills
