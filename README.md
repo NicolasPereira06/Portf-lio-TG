@@ -117,8 +117,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 * Trabalho em equipe
 > Adquirida por meio da capacidade de colaborar efetivamente com as minhas entregas e com meus colegas durante a execução do projeto.
 
-</Div>
-
+ 
 ### Em 2022-2
 
 <Div align="justify" >
