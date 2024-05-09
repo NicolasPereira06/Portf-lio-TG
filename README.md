@@ -141,7 +141,7 @@ A Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e De
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
   > Utilizamos a linguagem de programação Java para o desenvolvimento do Front-End e também do Back-End.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> Java 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL 
   > Utilizamos o MySQL para o armazenamento e consulta de dados do sistema.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
