@@ -185,7 +185,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 
 <Div align="justify" >
 
-> [Link para a API do 2º Semestre](https://github.com/NicolasPereira06/API--3-ADS)
+> [Link para a API do 3º Semestre](https://github.com/NicolasPereira06/API--3-ADS)
 
 A Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Visiona. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e exibir suas ações para os mesmos. com o propósito dos administradores da Visiona acessar essas ações e verificar o que foi gerenciado no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as ações no sistema para o administador, tais como edições, exclusões lógicas e cadastros. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
 
@@ -251,3 +251,77 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 * Trabalho em equipe
 > Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+
+### Em 2023-2
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semestre](https://github.com/NicolasPereira06/API--4-ADS)
+
+A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React 
+  > Utilizamos a biblioteca de interface gráfica React para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgre/postgre-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro, recuperação de senha, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Web (React + Node.Js)
+> Sei fazer com autonomia.
+
+* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
+> Sei fazer com autonomia.
+
+* Deploy de aplicações (Vercel)
+> Sei fazer o básico, funções mais complexas preciso de ajuda.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Proatividade 
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no back-end em relação aos demais, portanto tive um índice de proatividade maior.
+
+* Autonomia 
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa, apenas verificava o que estava faltando e realizava.
+
+* Comunicação
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com o integrante e ele começou a colaborar para o bom andamento do grupo.
