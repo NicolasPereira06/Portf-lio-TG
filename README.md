@@ -45,7 +45,7 @@ Cursos realizados e certificados.
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/NicolasPereira06/API--1-ADS)
+> [Link para a API do 1º Semestre](https://github.com/NicolasPereira06/API--1-ADS)
 
 A Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas envolveu colaboração com um cliente interno, de dentro da Fatec, um dos nossos professores. Seu propósito consistia em criar uma Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto, e também para o versionamento deste código, bem como o desenvolvimento em si do projeto, utilizando programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
 
@@ -85,7 +85,7 @@ A Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Métricas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Métricas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub, para realizar essa funções utilizei o HTML5, CSS3, JavaScript e a ferramenta de versionamento de código Git
 
 </Div>
 
@@ -103,10 +103,10 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 ### Soft skills
 
 * Colaboração
-> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver durante o projeto.
+> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver algumas telas do Front-End e no processamento de dados das métricas.
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End, otimizando o tempo dos estudos e das atividades realizadas.
 
 * Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
@@ -115,4 +115,67 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
 
 * Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
+> Adquirida por meio da capacidade de colaborar efetivamente com as minhas entregas e com meus colegas durante a execução do projeto.
+
+### Em 2022-2
+
+<Div align="justify" >
+
+> [Link para a API do 2º Semestre](https://github.com/NicolasPereira06/API--2-ADS)
+
+A Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira TrackCash. Seu propósito consistia em criar uma aplicação desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas ERP, senhas ou tokens fornecidos pelo cliente, com o propósito da TrackCash acessar as finanças da instituição cadastrada. Para isso, era preciso que o aplicativo apresentasse um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Java com a sua biblioteca de interface gráfica Swing e um Banco de Dados SQL para gerenciarmos os dados do sistema, que no caso foi o MySQL.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
+  > Utilizamos a linguagem de programação Java para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> Java 
+  > Utilizamos o MySQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas telas como a tela de listagem dos canais de ERP e Marketplace, telas de Login e cadastro dos canais. Também criei algoritmos de Login no sistema, cadastros e operações CRUD no Banco de Dados, além de auxiliar na montagem do GitHub da equipe.Para realizar essa funções utilizei o Java Swing, Java, MySQL e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Desktop (Java)
+> Sei fazer com autonomia.
+
+* Utilização de um SGBD e bancos relacionais de dados. (MySQL)
+> Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Comunicação
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e
+  tomamos a melhor decisão para o grupo.
+
+* Organização 
+> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Porém dessa vez utilizamos ferramentas que viabilizaram essas divisões como o Jira Software.
+
+* Trabalho em equipe
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
