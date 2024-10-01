@@ -103,7 +103,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 ### Soft skills
 
 * Colaboração
-> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver algumas telas do Front-End e no processamento de dados das métricas.
+> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver algumas telas do Front-End, no caso, nas telas de catálogo de vagas e cursos e também no processamento de dados, utilizando o Javascript para o desenvolvimento da página de métricas.
 
 * Organização 
 > Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End, otimizando o tempo dos estudos e das atividades realizadas.
@@ -112,7 +112,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
  
 * Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints, durante o desenvolvimento das minhas telas e processamento dos dados.
 
 * Trabalho em equipe
 > Adquirida por meio da capacidade de colaborar efetivamente com as minhas entregas e com meus colegas durante a execução do projeto.
@@ -172,14 +172,13 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 ### Soft skills
 
 * Comunicação
-> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e
-  tomamos a melhor decisão para o grupo.
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e tomamos a melhor decisão para o grupo.
 
 * Organização 
 > Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Porém dessa vez utilizamos ferramentas que viabilizaram essas divisões como o Jira Software.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas, que eram as telas do Front-End e também a lógica de login do Back-End, e ajudar o meu grupo com tecnologias como Java e MySQL que naquele momento eram novas para nós.
 
 ### Em 2023-1
 
@@ -250,7 +249,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 > Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Além de utilizarmos o Jira, implementamos otimizações e escalabilidade nos integrantes que mais se adaptaram ao Front ou Back-End, levando assim, um desenvolvimento mais efetivo e ágil.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas, que eram toda a lógica de login, CRUD e privilégios administrativos do Back-End e ajudar o meu grupo com tecnologias como React e PostgreSQL que naquele momento eram novas para nós.
 
 ### Em 2023-2
 
@@ -318,13 +317,13 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no back-end em relação aos demais, portanto tive um índice de proatividade maior.
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no back-end, como por exemplo, a lógica de login e CRUD, modelagem do banco de dados, e a lógica de négocio em torno do sistema de troca de oléo usado por créditos, portanto tive um índice de proatividade maior.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa, apenas verificava o que estava faltando e realizava.
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa, verificando as tarefas em falta e realizando-as.
 
 * Comunicação
-> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com o integrante e ele começou a colaborar para o bom andamento do grupo.
+> Melhorada por meio de colaborar e ajudar os meus colegas que tinham problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento do projeto, conversamos com o integrante e decidimos as medidas a tomar para o bom andamento do grupo.
 
 ### Em 2024-1
 
@@ -389,10 +388,10 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, assim como no anterior, desenvolvi bastante funções no back-end, portanto tive um índice de proatividade ainda maior.
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, assim como no anterior, desenvolvi bastante funções no back-end, como a lógica de login e CRUD, diferentes niveis de privilégios administrativos e o processamento de dados para a Dashboard, portanto tive um índice de proatividade ainda maior.
 
 * Autonomia 
 > Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
 
-* Entrega de Resultados 
-> Adquirida por meio da entrega de resultados dentro do prazo previsto, sempre entregando a minha parte dentro do prazo e sem atrasar a entrega de nenhum integrante do grupo.
+* Trabalho em equipe
+> Melhorada por meio da capacidade de colaborar com o meu grupo com a tecnologia do React Native que naquele momento era novo para nós, além de ajuda-los com o desenvolvimento mobile, que nesse API, foi o nosso primeiro contato.
