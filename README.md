@@ -395,3 +395,74 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 * Trabalho em equipe
 > Melhorada por meio da capacidade de colaborar com o meu grupo com a tecnologia do React Native que naquele momento era novo para nós, além de ajuda-los com o desenvolvimento mobile, que nesse API, foi o nosso primeiro contato.
+
+### Em 2024-2
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
+
+A Aprendizagem por Projetos Integrados do 6º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Dom Rock. Seu propósito era desenvolver uma Inteligência Artificial capaz de analisar e gerar insights a partir de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deve otimizar o processo de escolha de fornecedores e produtos, levando em consideração feedbacks de consumidores para área de compras de uma empresa. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub para cada área do projeto (Front-End, Data set e IA), a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Python com o framework Langchain para realização de técnicas de Chunking, Embeddings e RAG no desenvolvimento da IA, foi utilizado o FAISS como Vector Database, e também a linguagem TypeScript com o framework VueJS para o desenvolvimento do Front-End.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> VueJS
+  > Utilizamos a biblioteca de interface gráfica VueJS para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+  > Utilizamos a linguagem de programação Python para o desenvolvimento da IA.
+
+  <img width="50 rem" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 24 24'%3E%3Cpath fill='%23000' d='M6.099 5.918C2.736 5.918 0 8.646 0 12s2.736 6.083 6.099 6.083H17.9c3.364 0 6.1-2.73 6.1-6.083s-2.736-6.082-6.099-6.082ZM5.977 7.85c.493.012 1.02.25 1.273.623c.368.459.478 1.067.895 1.493c.56.612 1.199 1.15 1.716 1.802c.49.595.839 1.294 1.144 1.998c.124.233.125.52.31.72c.09.12.534.448.438.564c.055.12.47.286.326.402c-.194.04-.413.048-.562-.107c-.054.126-.182.06-.281.043l-.025.074c-.33.022-.576-.313-.732-.565c-.311-.168-.665-.27-.982-.446c-.019.29.045.648-.231.835c-.014.557.843.066.922.48c-.061.007-.129-.009-.178.038c-.223.217-.48-.165-.738-.007c-.346.174-.38.316-.81.352c-.023-.036-.014-.06.006-.081c.12-.14.13-.305.336-.365c-.212-.033-.39.084-.569.176c-.232.095-.23-.214-.588.017c-.04-.033-.02-.062.002-.087c.091-.11.21-.127.345-.12c-.663-.37-.975.45-1.281.043c-.092.024-.127.106-.185.165c-.05-.055-.012-.121-.01-.186c-.06-.028-.135-.041-.117-.137c-.117-.04-.2.03-.286.096c-.08-.061.053-.15.077-.213c.07-.121.23-.025.311-.112c.23-.131.552.08.816.045c.203.026.454-.182.352-.39c-.217-.277-.179-.639-.183-.97c-.027-.192-.491-.438-.626-.646c-.166-.187-.295-.404-.424-.618c-.467-.9-.32-2.058-.908-2.895c-.266.147-.612.078-.841-.119c-.124.113-.13.26-.14.417c-.296-.297-.259-.856-.021-1.186c.096-.13.212-.237.342-.332c.029-.02.039-.041.038-.074c.117-.527.576-.74 1.07-.727m12.407.46c.557 0 1.08.216 1.473.608s.61.915.61 1.47a2.06 2.06 0 0 1-.61 1.47v.001l-.902.9a2.1 2.1 0 0 1-.86.516l-.016.005l-.005.016a2.05 2.05 0 0 1-.474.731l-.902.9c-.394.392-.917.608-1.475.608s-1.08-.216-1.474-.608a2.077 2.077 0 0 1 0-2.94l.902-.9a2.06 2.06 0 0 1 .858-.514l.017-.006l.006-.016a2.1 2.1 0 0 1 .475-.733l.902-.9a2.07 2.07 0 0 1 1.474-.608m0 .897a1.18 1.18 0 0 0-.84.346l-.901.9a1.18 1.18 0 0 0-.343.924l.005.058c.033.265.15.504.338.691c.13.13.273.212.447.269a1 1 0 0 1 .014.158a.88.88 0 0 1-.26.63l-.056.056a1.96 1.96 0 0 1-.78-.48a2.06 2.06 0 0 1-.576-1.096l-.01-.058l-.046.037a1 1 0 0 0-.087.08l-.903.899a1.182 1.182 0 0 0 .84 2.019c.304 0 .607-.116.838-.346l.902-.9a1.18 1.18 0 0 0 0-1.673a1.2 1.2 0 0 0-.436-.275a1 1 0 0 1-.014-.16a.97.97 0 0 1 .29-.693a2.06 2.06 0 0 1 1.372 1.592l.01.058l.046-.038a1 1 0 0 0 .088-.08l.902-.899a1.183 1.183 0 0 0 0-1.673a1.18 1.18 0 0 0-.84-.346M8.41 14.364c-.08.309-.105.833-.506.848c-.033.177.123.244.265.187c.141-.064.208.051.256.166c.218.032.54-.073.552-.33c-.325-.187-.426-.542-.567-.87'/%3E%3C/svg%3E"/> Langchain
+  > Utilizamos a biblioteca Langchain para aplicação de técnicas de RAG (Embeddings, Chunkings, VectorDB, etc).
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento da Inteligencia Artificial. Desenvolvi algumas funções na IA como o escopo inicial de como funcionaria a IA, leitura dos dados, aplicações de técnicas de Machine Learning com bases nos dados, ajustes e implementação do histórico de mensagens do usuário e técnicas de Análise de Sentimentos. Para realizar essa funções utilizei o Python com a sua biblioteca Langchain e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Front-End (VueJS)
+> Sei fazer ajuda autonomia.
+
+* Desenvolvimento da IA (Python)
+> Sei fazer com autonomia.
+
+* Desenvolvimento de técnicas de RAG (Langchain)
+> Sei fazer com autonomia.
+
+* Controle de versionamento (Git)  
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Proatividade 
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no treinamento e omtimização Da IA, como a criação de um escopo inicial, leitura e treinamento de dados, histórico de usuário e análise de sentimentos, portanto obtive um índice de proatividade alto.
+
+* Autonomia 
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
+
+* Trabalho em equipe
+> Melhorada por meio da capacidade de colaborar com o meu grupo com a tecnologia do Python e sua biblioteca Langchain que naquele momento era novo para o grupo, além de ajudá-los com o desenvolvimento de uma IA Generativa, que nesse API, foi também o nosso primeiro contato.
