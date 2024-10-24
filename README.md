@@ -425,7 +425,7 @@ A Aprendizagem por Projetos Integrados do 6º Semestre do curso de Análise e De
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
   > Utilizamos a linguagem de programação Python para o desenvolvimento da IA.
 
-  <img width="50 rem" src="imagens/simple-icons--langchain (1).png"/> Langchain
+  <img width="50 rem" src="imagens/simple-icons--langchain (2).png"/> Langchain
   > Utilizamos a biblioteca Langchain para aplicação de técnicas de RAG (Embeddings, Chunkings, VectorDB, etc).
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
