@@ -8,7 +8,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/NicolasPereira06/Portfolio-TG/main/imagens/NicolasPereira06.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
-Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. Comecei o meu interesse pela área da tecnologia, no Ensino Médio, foi um período em que tive um contato maior com a informática, a partir dai comecei a assistir alguns cursos onlines e programar por conta própria. No 3º Ano do Ensino Médio prestei vestibular para faculdades na área de tecnologia, entrei na Fatec de São José dos Campos, e até então tenho desenvolvido e aprimorado minhas habilidades de programação.
+Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. Comecei o meu interesse pela área da tecnologia, no Ensino Médio, foi um período em que tive um contato maior com a informática, a partir dai comecei a assistir alguns cursos onlines e programar por conta própria. No 3º Ano do Ensino Médio prestei vestibular para faculdades na área de tecnologia, entrei na Fatec de São José dos Campos, e até então tenho desenvolvido e aprimorado minhas habilidades de programação, atualmente não estou atuando no Mercado de Trabalho mas estou em busca de oportunidades.
 </Div>
 
 <Div align="center" >
@@ -47,7 +47,13 @@ Cursos realizados e certificados.
 
 > [Link para a API do 1º Semestre](https://github.com/NicolasPereira06/API--1-ADS)
 
-A Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas envolveu colaboração com um cliente interno, de dentro da Fatec, um dos nossos professores. Seu propósito consistia em criar uma Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto, e também para o versionamento deste código, bem como o desenvolvimento em si do projeto, utilizando programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação e ajudando alunos e profissionais a encontrarem essas oportunidades com maior facilidade.
+
+### Solução
+
+Desenvolvemos um sistema web voltado para o armazenamento e consulta dessas vagas de empregos e cursos. O projeto foi estruturado em um repositório no GitHub, onde o código-fonte foi mantido e versionado para facilitar a colaboração e a continuidade do desenvolvimento. Usamos Python e JavaScript para a lógica de programação, enquanto HTML5 e CSS3 formaram a base do desenvolvimento front-end. Além disso, frameworks como Flask e Bootstrap auxiliaram na criação de uma interface intuitiva e responsiva.
 
 </Div>
 
@@ -103,19 +109,19 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 ### Soft skills
 
 * Colaboração
-> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver algumas telas do Front-End, no caso, nas telas de catálogo de vagas e cursos e também no processamento de dados, utilizando o Javascript para o desenvolvimento da página de métricas.
+> Alcançada ao ajudar colegas que enfrentavam dificuldades na implementação das telas do Front-End, especificamente nas páginas de catálogo de vagas e cursos. Colaborei ativamente na codificação dessas telas e no processamento de dados, utilizando JavaScript para desenvolver a página de métricas, o que permitiu que todos avançassem em suas tarefas.
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End, otimizando o tempo dos estudos e das atividades realizadas.
+> Desenvolvi essa habilidade ao dividir claramente as atividades entre mim e meu grupo, estabelecendo uma divisão de tarefas entre Back-End e Front-End. Por exemplo, organizei um cronograma semanal que otimizou nosso tempo de estudo, permitindo que cada membro se concentrasse em suas responsabilidades, o que resultou na conclusão mais eficiente das etapas do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
+> Melhorei minha comunicação ao manter um diálogo aberto e claro durante nossas reuniões diárias. Por exemplo, sugeri ao grupo fazer reuniões online com mais frequência para um melhor alinhamento de ideias.
  
 * Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints, durante o desenvolvimento das minhas telas e processamento dos dados.
+> Demonstrei autonomia ao resolver um problema complexo na implementação de uma funcionalidade de filtragem de dados das métricas sem ajuda externa. Ao invés de solicitar auxílio, busquei referências e recursos online para desenvolver a solução por conta própria, o que contribuiu para a agilidade do projeto e reforçou minha confiança em lidar com desafios novos.
 
 * Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com as minhas entregas e com meus colegas durante a execução do projeto.
+> Adquiri essa habilidade ao colaborar de forma eficaz com os membros da equipe, contribuindo com minhas entregas e ajudando colegas durante o desenvolvimento do projeto. Por exemplo, organizei sessões de revisão de código do back-end, onde juntos discutíamos e aprimorávamos o trabalho de cada um, garantindo a qualidade e a coesão do projeto final.
 
  
 ### Em 2022-2
@@ -124,7 +130,13 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 
 > [Link para a API do 2º Semestre](https://github.com/NicolasPereira06/API--2-ADS)
 
-A Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira TrackCash. Seu propósito consistia em criar uma aplicação desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas ERP, senhas ou tokens fornecidos pelo cliente, com o propósito da TrackCash acessar as finanças da instituição cadastrada. Para isso, era preciso que o aplicativo apresentasse um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Java com a sua biblioteca de interface gráfica Swing e um Banco de Dados SQL para gerenciarmos os dados do sistema, que no caso foi o MySQL.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pela TrackCash era a criação de uma aplicação desktop para gerenciar e registrar dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP, e credenciais de acesso, incluindo senhas ou tokens dos clientes, facilitando, assim, o acesso da TrackCash às finanças de instituições cadastradas.
+
+### Solução
+
+Desenvolvemos uma aplicação desktop com funcionalidades específicas de cadastro e gerenciamento, incluindo um sistema de usuários com diferentes permissões (usuário e operador) e páginas dedicadas para registrar, editar e gerenciar canais. O projeto foi versionado e armazenado em um repositório GitHub para facilitar a colaboração e a manutenção do código. Na implementação, utilizamos a linguagem Java com a biblioteca gráfica Swing para a interface de usuário e o banco de dados MySQL para organizar e gerenciar os dados de maneira segura e eficaz.
 
 </Div>
 
@@ -172,13 +184,13 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 ### Soft skills
 
 * Comunicação
-> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e tomamos a melhor decisão para o grupo.
+> Aprimorei minha comunicação ao abordar e resolver conflitos dentro do grupo, especialmente quando alguns integrantes estavam dificultando o progresso do projeto. Organizei uma reunião em que todos puderam expressar suas preocupações e juntos chegamos à melhor decisão para o grupo, garantindo que todos se sentissem ouvidos e que o andamento da aplicação não fosse prejudicado.
 
 * Organização 
-> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Porém dessa vez utilizamos ferramentas que viabilizaram essas divisões como o Jira Software.
+> Melhorei minha organização ao implementar uma divisão clara de tarefas entre os membros do grupo, especificamente entre as atividades de Back-End e Front-End. Utilizamos o Jira Software para gerenciar e acompanhar as tarefas, o que facilitou a visualização do progresso de cada um e otimizou a colaboração e o tempo de entrega das atividades.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas, que eram as telas do Front-End e também a lógica de login do Back-End, e ajudar o meu grupo com tecnologias como Java e MySQL que naquele momento eram novas para nós.
+> Desenvolvi meu trabalho em equipe ao contribuir efetivamente com as minhas entregas, que incluíam as telas do Front-End e a lógica de login do Back-End. Além disso, ajudei meus colegas a entender e utilizar tecnologias como Java e MySQL, que eram novas para nós na época, promovendo um ambiente colaborativo de aprendizado e superação de desafios técnicos.
 
 ### Em 2023-1
 
@@ -186,7 +198,14 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 
 > [Link para a API do 3º Semestre](https://github.com/NicolasPereira06/API--3-ADS)
 
-A Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Visiona. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e exibir suas ações para os mesmos. com o propósito dos administradores da Visiona acessar essas ações e verificar o que foi gerenciado no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as ações no sistema para o administador, tais como edições, exclusões lógicas e cadastros. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. A Visiona buscava uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+
+
+### Solução
+
+Desenvolvemos uma aplicação web com funcionalidades específicas para o monitoramento das ações dos usuários. A solução incluiu uma interface para que os administradores pudessem visualizar todas as atividades realizadas no sistema de forma organizada e intuitiva. O projeto foi mantido em um repositório GitHub, permitindo versionamento e colaboração contínua. Na implementação, utilizamos TypeScript e a biblioteca React para a criação da interface de usuário, um servidor Back-End em Node.js para a lógica da aplicação, e o banco de dados PostgreSQL para armazenar e gerenciar as informações de maneira eficiente e segura.
 
 </Div>
 
@@ -246,10 +265,10 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Organização 
-> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Além de utilizarmos o Jira, implementamos otimizações e escalabilidade nos integrantes que mais se adaptaram ao Front ou Back-End, levando assim, um desenvolvimento mais efetivo e ágil.
+> Melhorei minha organização ao estruturar claramente as atividades do grupo, especificamente dividindo tarefas entre Back-End e Front-End. Além de utilizarmos o Jira para o gerenciamento de tarefas, implementei um sistema de otimização, onde designamos os integrantes com base nas suas habilidades e adaptações ao Front-End ou Back-End. Isso resultou em um desenvolvimento mais eficaz e ágil, permitindo que cada membro contribuísse de forma mais produtiva em áreas onde se sentia mais confortável.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas, que eram toda a lógica de login, CRUD e privilégios administrativos do Back-End e ajudar o meu grupo com tecnologias como React e PostgreSQL que naquele momento eram novas para nós.
+> Aprimorei meu trabalho em equipe ao contribuir para a lógica de login, CRUD e privilégios administrativos do Back-End. Além disso, apoiei meus colegas na compreensão e utilização de tecnologias como React e PostgreSQL, que eram novas para nós. Essa colaboração não apenas facilitou a aprendizagem mútua, mas também garantiu que o grupo estivesse alinhado e preparado para enfrentar os desafios do projeto juntos.a nós.
 
 ### Em 2023-2
 
@@ -257,7 +276,13 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 > [Link para a API do 4º Semestre](https://github.com/NicolasPereira06/API--4-ADS)
 
-A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. O problema identificado pela Greenneat era a falta de uma plataforma para gerenciar usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa. A Greenneat precisava de uma solução que permitisse o controle das transações de créditos, como compras e vendas, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+
+### Solução
+
+Desenvolvemos uma aplicação web com funcionalidades tanto para os administradores quanto para os usuários finais. Os administradores podiam monitorar todas as transações de crédito realizadas pelos usuários, além de gerenciar seus perfis e atividades no sistema. Já para os usuários, eles tinham acesso a funcionalidades que facilitavam as transações de óleo usado, visualizando seu saldo acumulado e utilizando os créditos como moeda de troca de maneira simples e transparente. A aplicação foi estruturada em um repositório no GitHub para versionamento e colaboração contínua. Usamos TypeScript e a biblioteca React para uma interface responsiva e intuitiva, Node.js para o servidor Back-End e PostgreSQL para garantir o armazenamento e a segurança dos dados de forma eficiente.
 
 </Div>
 
@@ -317,13 +342,13 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no back-end, como por exemplo, a lógica de login e CRUD, modelagem do banco de dados, e a lógica de négocio em torno do sistema de troca de oléo usado por créditos, portanto tive um índice de proatividade maior.
+> Desenvolvi minha proatividade ao assumir a responsabilidade por diversas atividades propostas na API, incluindo a implementação de funções essenciais no Back-End, como a lógica de login, CRUD e a modelagem do banco de dados. Além disso, trabalhei na lógica de negócios relacionada ao sistema de troca de óleo usado por créditos, o que elevou meu índice de proatividade, uma vez que identifiquei e executei tarefas sem aguardar designações.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa, verificando as tarefas em falta e realizando-as.
+> Minha autonomia foi aprimorada ao realizar tarefas de forma independente, como quando percebi que o design do banco de dados precisava de otimizações para melhorar o desempenho da aplicação durante a compra de créditos Greenneat. Em vez de esperar que alguém solicitasse essas alterações, tomei a iniciativa de propor uma nova estrutura e implementei as mudanças necessárias.
 
 * Comunicação
-> Melhorada por meio de colaborar e ajudar os meus colegas que tinham problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento do projeto, conversamos com o integrante e decidimos as medidas a tomar para o bom andamento do grupo.
+> Melhorei minha comunicação ao colaborar com colegas que enfrentavam dificuldades devido a conflitos com outros integrantes do grupo. Um exemplo disso, foi quando um colega estava se sentindo sobrecarregado por conta de prazos apertados. Organizei uma reunião para discutir como poderíamos redistribuir as tarefas de maneira mais equilibrada. Durante a conversa, escutei as preocupações de todos e, com base nas sugestões, organizamos um cronograma que atendesse as necessidades de cada um. Isso não apenas resolveu o problema imediato, mas também fortaleceu o clima de equipe e melhorou nossa colaboração nas sprints seguintes.
 
 ### Em 2024-1
 
@@ -331,7 +356,16 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 > [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
 
-A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Oracle. Seu propósito consistia em criar uma aplicação mobile a fim de gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os seus parceiro cadastrados no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todos os parceiros cadastrados, as trilhas e expertises que esses parceiros estavam vinculados, a progressão dos parceiros e um sistema de gerenciamento dos mesmos com diferentes níveis de acesso por parte do administrador. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica para mobile React Native, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL e o MongoDB.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O desafio identificado foi criar uma aplicação mobile para gerenciar o sistema de progressão de trilhas de conhecimento e expertises dos parceiros cadastrados no sistema da Oracle. A Oracle precisava de uma solução que centralizasse as informações sobre parceiros, trilhas de aprendizado, especializações vinculadas e o progresso desses parceiros, além de fornecer diferentes níveis de acesso para administradores.
+
+
+
+### Solução
+
+Desenvolvemos uma aplicação mobile que permitia aos administradores visualizar todos os parceiros cadastrados, as trilhas e expertises associadas, além de monitorar o progresso de cada parceiro no sistema. A aplicação também incluía um sistema de gerenciamento com diferentes níveis de acesso, permitindo aos administradores configurar permissões conforme necessário. O código-fonte foi mantido em um repositório no GitHub para facilitar o versionamento e a colaboração. No desenvolvimento, utilizamos TypeScript junto com a biblioteca React Native para a interface mobile, Node.js como servidor Back-End, além dos bancos de dados PostgreSQL e MongoDB para armazenamento e gestão eficiente dos dados.
+
 
 </Div>
 
@@ -388,13 +422,13 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, assim como no anterior, desenvolvi bastante funções no back-end, como a lógica de login e CRUD, diferentes niveis de privilégios administrativos e o processamento de dados para a Dashboard, portanto tive um índice de proatividade ainda maior.
+> Desenvolvi minha proatividade ao assumir diversas atividades no Back-End, como a lógica de login e CRUD, implementação de diferentes níveis de privilégios administrativos e o processamento de dados para a Dashboard. Esses esforços ampliaram minha atuação e o impacto do meu trabalho no projeto, contribuindo de forma significativa para o avanço das entregas.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
+> Fortaleci minha autonomia ao realizar tarefas de forma independente, sem esperar designações específicas. Identifiquei demandas de otimização na parte das trilhas e expertises do usuário e tomei a iniciativa de concluí-las, o que aumentou a eficiência da equipe e manteve o cronograma em dia.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar com o meu grupo com a tecnologia do React Native que naquele momento era novo para nós, além de ajuda-los com o desenvolvimento mobile, que nesse API, foi o nosso primeiro contato.
+> Colaborei com a equipe no aprendizado e uso do React Native, que era uma tecnologia nova para todos nós. Além de apoiar meus colegas no desenvolvimento mobile, que foi nossa primeira experiência nesse ambiente, como eu já possuia um prévio conehcimento em mobile, ofereci suporte contínuo durante o desenvolvimento da aplicação, especialmente para enfrentar os desafios iniciais dessa nova abordagem.
 
 ### Em 2024-2
 
@@ -402,7 +436,13 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 > [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
 
-A Aprendizagem por Projetos Integrados do 6º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Dom Rock. Seu propósito era desenvolver uma Inteligência Artificial capaz de analisar e gerar insights a partir de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deve otimizar o processo de escolha de fornecedores e produtos, levando em consideração feedbacks de consumidores para área de compras de uma empresa. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub para cada área do projeto (Front-End, Data set e IA), a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação Python com o framework Langchain para realização de técnicas de Chunking, Embeddings e RAG no desenvolvimento da IA, foi utilizado o FAISS como Vector Database, e também a linguagem TypeScript com o framework VueJS para o desenvolvimento do Front-End.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A demanda da Dom Rock era desenvolver uma IA capaz de analisar e extrair insights de reviews de produtos de e-commerce, visando auxiliar o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria otimizar o processo de escolha de fornecedores e produtos, aproveitando o feedback dos consumidores para orientar as decisões de compras.
+
+### Solução
+
+Organizamos o projeto em repositórios no GitHub divididos por área (Front-End, Data set e IA), garantindo uma estrutura colaborativa e bem gerenciada. Utilizamos Python com o framework LangChain para implementar técnicas de chunking, embeddings e RAG na construção da IA, com o FAISS como Vector Database para organizar e buscar informações de forma eficiente. No Front-End, desenvolvemos uma interface web em TypeScript com o framework VueJS, onde criamos um chatbot interativo, permitindo que os usuários façam perguntas e recebam respostas da nossa IA em tempo real, facilitando a consulta e visualização dos insights gerados a partir dos reviews.
 
 </Div>
 
@@ -459,10 +499,10 @@ Neste projeto fiquei no desenvolvimento da Inteligencia Artificial. Desenvolvi a
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no treinamento e omtimização Da IA, como a criação de um escopo inicial, leitura e treinamento de dados, histórico de usuário e análise de sentimentos, portanto obtive um índice de proatividade alto.
+> Demonstrei proatividade ao executar diversas funções essenciais no treinamento e otimização da IA. Entre elas, participei na criação de um escopo inicial, além de implementar a leitura e o treinamento dos dados, desenvolver o histórico de usuário e aplicar a análise de sentimentos. Esse trabalho ampliou o impacto do projeto, refletindo um alto nível de proatividade.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
+> Fortaleci minha autonomia ao realizar tarefas de forma independente, otimizando as demandas e requisições da IA durante o retorno de algum insight, sem esperar por designações. Essa postura garantiu maior agilidade e eficiência para o progresso do projeto.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar com o meu grupo com a tecnologia do Python e sua biblioteca Langchain que naquele momento era novo para o grupo, além de ajudá-los com o desenvolvimento de uma IA Generativa, que nesse API, foi também o nosso primeiro contato.
+> Contribuí para o trabalho em equipe ao auxiliar meus colegas no uso da linguagem Python e da biblioteca LangChain, ambas novas para o grupo. Também os apoiei no desenvolvimento da IA Generativa, que representou nosso primeiro contato com essa tecnologia, facilitando o aprendizado e a adaptação de todos à novidade.
