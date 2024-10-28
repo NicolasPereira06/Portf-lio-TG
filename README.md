@@ -428,7 +428,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 > Fortaleci minha autonomia ao realizar tarefas de forma independente, sem esperar designações específicas. Identifiquei demandas de otimização na parte das trilhas e expertises do usuário e tomei a iniciativa de concluí-las, o que aumentou a eficiência da equipe e manteve o cronograma em dia.
 
 * Trabalho em equipe
-> Colaborei com a equipe no aprendizado e uso do React Native, que era uma tecnologia nova para todos nós. Além de apoiar meus colegas no desenvolvimento mobile, que foi nossa primeira experiência nesse ambiente, como eu já possuia um prévio conehcimento em mobile, ofereci suporte contínuo durante o desenvolvimento da aplicação, especialmente para enfrentar os desafios iniciais dessa nova abordagem.
+> Colaborei com a equipe no aprendizado e uso do React Native, que era uma tecnologia nova para todos nós. Além de apoiar meus colegas no desenvolvimento mobile, que foi nossa primeira experiência nesse ambiente, como eu já possuia um prévio conhecimento em mobile, ofereci suporte contínuo durante o desenvolvimento da aplicação, especialmente para enfrentar os desafios iniciais dessa nova abordagem.
 
 ### Em 2024-2
 
