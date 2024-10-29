@@ -265,7 +265,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 ### Soft skills
 
 * Organização 
-> Melhorei minha organização ao estruturar claramente as atividades do grupo, especificamente dividindo tarefas entre Back-End e Front-End. Além de utilizarmos o Jira para o gerenciamento de tarefas, implementei um sistema de otimização, onde designamos os integrantes com base nas suas habilidades e adaptações ao Front-End ou Back-End. Isso resultou em um desenvolvimento mais eficaz e ágil, permitindo que cada membro contribuísse de forma mais produtiva em áreas onde se sentia mais confortável.
+> Melhorei minha organização ao estruturar claramente as atividades do grupo, especificamente dividindo tarefas entre Back-End e Front-End. Utilizei o Jira para o gerenciamento de tarefas, e para designar os integrantes com base nas suas habilidades e adaptações ao Front-End ou Back-End. Isso resultou em um desenvolvimento mais eficaz e ágil, permitindo que cada membro contribuísse de forma mais produtiva em áreas onde se sentia mais confortável.
 
 * Trabalho em equipe
 > Aprimorei meu trabalho em equipe ao contribuir para a lógica de login, CRUD e privilégios administrativos do Back-End. Além disso, apoiei meus colegas na compreensão e utilização de tecnologias como React e PostgreSQL, que eram novas para nós. Essa colaboração não apenas facilitou a aprendizagem mútua, mas também garantiu que o grupo estivesse alinhado e preparado para enfrentar os desafios do projeto juntos.
