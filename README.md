@@ -485,7 +485,7 @@ Neste projeto fiquei no desenvolvimento da Inteligencia Artificial. Desenvolvi a
 ### Hard skills
 
 * Desenvolvimento Front-End (VueJS)
-> Sei fazer ajuda autonomia.
+> Sei fazer com autonomia.
 
 * Desenvolvimento da IA (Python)
 > Sei fazer com autonomia.
