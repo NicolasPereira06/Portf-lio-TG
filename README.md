@@ -49,7 +49,7 @@ Cursos realizados e certificados.
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação e ajudando alunos e profissionais a encontrarem essas oportunidades com maior facilidade.
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação.
 
 ### Solução
 
@@ -91,7 +91,7 @@ Desenvolvemos um sistema web voltado para o armazenamento e consulta dessas vaga
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Métricas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub, para realizar essa funções utilizei o HTML5, CSS3, JavaScript e a ferramenta de versionamento de código Git
+Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas páginas como a do Catálogo de Vagas a fim de listar para o usuário a quantidade e o tipo de vaga do site, a página de Métricas, com o propósito de exibir grafícos e tabelas para o usuário ter uma visualização geral das vagas, e também fiquei responsável por desenvolver um programa que criasse as métricas dessa página, mostrando informações e dados sobre as vagas e cursos do nosso sistema. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub, para realizar essa funções utilizei o HTML5, CSS3, JavaScript e a ferramenta de versionamento de código Git
 
 </Div>
 
@@ -132,7 +132,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pela TrackCash era a criação de uma aplicação desktop para gerenciar e registrar dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP, e credenciais de acesso, incluindo senhas ou tokens dos clientes, facilitando, assim, o acesso da TrackCash às finanças de instituições cadastradas.
+O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A TrackCash estava com um problema no registro de dados sensíveis nos seus canais de marketplaces, meios de pagamento, plataformas ERP, e credenciais de acesso, incluindo senhas ou tokens dos clientes.
 
 ### Solução
 
@@ -166,7 +166,7 @@ Desenvolvemos uma aplicação desktop com funcionalidades específicas de cadast
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas telas como a tela de listagem dos canais de ERP e Marketplace, telas de Login e cadastro dos canais. Também criei algoritmos de Login no sistema, cadastros e operações CRUD no Banco de Dados, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o Java Swing, Java, MySQL e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na parte Front-End como na parte Back-End, Desenvolvi algumas telas como a tela de listagem dos canais de ERP e Marketplace a fim do usuário visualizar os seus próprios canais, telas de Login e cadastro dos canais para garantir a autenticação dos usuários e os seus canais. Também criei algoritmos de Login no sistema, cadastros e operações CRUD no Banco de Dados para garantir a integridade dos dados do usuário, além de auxiliar na montagem do GitHub da equipe para fins de documentação. Para realizar essa funções utilizei o Java Swing, Java, MySQL e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -200,7 +200,7 @@ Neste projeto fiquei no desenvolvimento FullStack, ou seja, desenvolvi tanto na 
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. A Visiona buscava uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. A Visiona estava com um problema no gerenciamento de usuários e monitoramento de suas ações no sistema.
 
 
 ### Solução
@@ -244,7 +244,7 @@ Desenvolvemos uma aplicação web com funcionalidades específicas para o monito
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, um sistema de recuperação de senha e gerenciamento por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados para garantir a proteção de algumas telas e a integridade dos dados do usuário, um sistema de recuperação de senha e gerenciamento por parte do administrador a fim de garantir um fluxo limpo do sistema para o usuário, além de auxiliar na montagem do GitHub da equipe para fins de documentação. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -278,7 +278,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. O problema identificado pela Greenneat era a falta de uma plataforma para gerenciar usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa. A Greenneat precisava de uma solução que permitisse o controle das transações de créditos, como compras e vendas, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. A Greenneat estava com um problema no gerenciamento de seus usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa.
 
 ### Solução
 
@@ -321,7 +321,7 @@ Desenvolvemos uma aplicação web com funcionalidades tanto para os administrado
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro, recuperação de senha, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro e recuperação de senha para garantir a integridade dos dados do usuário e o fluxo natural do sistema, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador a fim de um controle administrativo sobre os créditos gerados, além de auxiliar na montagem do GitHub da equipe para fins de documentação. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -358,7 +358,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O desafio identificado foi criar uma aplicação mobile para gerenciar o sistema de progressão de trilhas de conhecimento e expertises dos parceiros cadastrados no sistema da Oracle. A Oracle precisava de uma solução que centralizasse as informações sobre parceiros, trilhas de aprendizado, especializações vinculadas e o progresso desses parceiros, além de fornecer diferentes níveis de acesso para administradores.
+O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. A Oracle estava com um problema no gerenciamento do sistema de progressão de trilhas de conhecimento, cursos especializados e expertises dos parceiros cadastrados no sistema da Oracle.
 
 
 
@@ -404,7 +404,7 @@ Desenvolvemos uma aplicação mobile que permitia aos administradores visualizar
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login, recuperação de senha, geração de relatórios com base na progressão das expertises, sistema de cadastro dos usuários, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro com recuperação de senha para garantir a integridade dos dados do usuário e o fluxo natural do sistema, geração de relatórios com base na progressão das expertises a fim do usuário ter um feedback visual da sua progressão nos cursos, além de auxiliar na montagem do GitHub da equipe para fins de documentação. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -438,7 +438,7 @@ Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no se
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A demanda da Dom Rock era desenvolver uma IA capaz de analisar e extrair insights de reviews de produtos de e-commerce, visando auxiliar o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria otimizar o processo de escolha de fornecedores e produtos, aproveitando o feedback dos consumidores para orientar as decisões de compras.
+O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A Dom Rock estava com um problema na analise e extração de insights de reviews de produtos de e-commerce, visando auxiliar o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos.
 
 ### Solução
 
@@ -478,7 +478,7 @@ Organizamos o projeto em repositórios no GitHub divididos por área (Front-End,
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento da Inteligencia Artificial. Desenvolvi algumas funções na IA como o escopo inicial de como funcionaria a IA, leitura dos dados, aplicações de técnicas de Machine Learning com bases nos dados, ajustes e implementação do histórico de mensagens do usuário e técnicas de Análise de Sentimentos. Para realizar essa funções utilizei o Python com a sua biblioteca Langchain e a ferramenta de versionamento de código Git.
+Neste projeto fiquei no desenvolvimento da Inteligencia Artificial. Desenvolvi algumas funções na IA como o escopo inicial do funcionamento da IA, leitura dos dados, aplicações de técnicas de Machine Learning com bases nos dados para garantir uma similaridade e acurácia nas respostas da IA para o usuário, ajustes e implementação do histórico de mensagens do usuário e técnicas de Análise de Sentimentos a fim do usuário receber um feedback com base nas opiniões das reviews. Para realizar essa funções utilizei o Python com a sua biblioteca Langchain e a ferramenta de versionamento de código Git.
 
 </Div>
 
